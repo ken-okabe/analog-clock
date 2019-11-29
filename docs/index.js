@@ -18,7 +18,7 @@ function init(){
   makeMinMarkers();
   makeClockNumbers();
   //timerid = requestAnimationFrame(update);
-  timerid = setInterval(update,1000);
+  timerid = setInterval(update,300);
   soundtoggle.addEventListener("click",toggleTick,false);
 }
 function getAudio(audioObject,callback){
