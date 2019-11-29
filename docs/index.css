@@ -20,8 +20,8 @@ table {border-collapse: collapse;border-spacing: 0;}
 /* Styles for the layout template */
 :root {
   --textcolor:black;
-  --accentcolor:#269;
-  --lightaccentcolor:#9df;
+  --accentcolor:black;
+  --lightaccentcolor:black;
   --reversecolor:white;
 }
 html {
